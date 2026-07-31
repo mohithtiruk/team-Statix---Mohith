@@ -1,6 +1,0 @@
-{
-  "name": "StudyPilot AI",
-  "description": "An intelligent academic management platform and AI-powered academic assistant for students.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
