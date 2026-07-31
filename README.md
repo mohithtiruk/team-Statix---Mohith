@@ -26,7 +26,7 @@ This fragmented workflow can lead to:
 -   Difficulty maintaining consistent study habits
 -   Excessive time spent manually organizing schedules
 
-## 💡 The Solution
+##  The Solution
 
 StudyPilot AI acts as a **personalized academic mentor** that
 coordinates a student's academic workload in the background.
@@ -60,7 +60,7 @@ It can:
 -   Imports weekly courses and labs
 -   Helps analyze attendance buffer requirements dynamically
 
-### 🤖 AI Study Planner
+###  AI Study Planner
 
 -   Creates daily revision tasks
 -   Considers remaining days, target milestones, and difficulty scores
