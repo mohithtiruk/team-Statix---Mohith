@@ -132,7 +132,7 @@ The StudyPilot AI workflow follows five main steps:
        ┌────────┴─────────┐
        ▼                  ▼
 ┌───────────────┐  ┌────────────────┐
-│  Gemini API   │  │    MongoDB     │
+│  Gemini API   │  │    HydraDB     │
 │ AI Reasoning  │  │ Data Storage   │
 └───────────────┘  └────────────────┘
 ```
@@ -156,11 +156,8 @@ The StudyPilot AI workflow follows five main steps:
                                                   optimization, and
                                                   calendar structuring
 
-  Database                MongoDB                 Stores tasks, goals,
+  Database                HydraDB                 Stores tasks, goals,
                                                   and class schedules
-
-  Hosting                 Vercel + Render         Frontend hosting and
-                                                  backend processing
   -----------------------------------------------------------------------
 
 ##  Technology Stack
@@ -182,12 +179,8 @@ The StudyPilot AI workflow follows five main steps:
 
 ### Database
 
--   MongoDB
+-   HydraDB
 
-### Deployment
-
--   Vercel
--   Render
 
 ##  Example AI Decision
 
